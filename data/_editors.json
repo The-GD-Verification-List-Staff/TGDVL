@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "portz",
+        "link": "https://www.youtube.com/@maybe.atomic"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "GaMMa",
+        "link": "https://www.youtube.com/@gammaplaydiation"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "kemapolapis",
+        "link": "https://www.youtube.com/@Kemapolapiss"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ProXy",
+        "link": "https://www.youtube.com/@proxy-s8e"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Sidewinder",
+        "link": "https://www.youtube.com/@guys.its.level.2"
     }
 ]
