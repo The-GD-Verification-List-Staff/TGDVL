@@ -1,0 +1,23 @@
+{
+    "id": 66423298,
+    "name": "Empyrean",
+    "author": "070",
+    "creators": ["SeptaGon7"],
+    "verifier": "somni",
+    "verification": "https://youtu.be/GUxcWS79BJA",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "seahorse411",
+            "link": "https://youtu.be/GUxcWS79BJA",
+            "percent": 100,
+            "hz": 360
+        },
+            "user": "Butcherr",
+            "link": "https://youtu.be/GUxcWS79BJA",
+            "percent": 68,
+            "hz": 360
+        }
+    ]
+}
