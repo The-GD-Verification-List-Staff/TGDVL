@@ -1,0 +1,24 @@
+{
+    "id": 126730686,
+    "name": "Intel ATOM",
+    "author": "1st3y1",
+    "creators": ["7bdn & More"],
+    "verifier": "Butcherr",
+    "verification": "https://youtu.be/lJEo6p49QiE",
+    "percentToQualify": "100",
+    "password": "46290",
+    "records": [
+        {
+            "user": "somni",
+            "link": "https://youtu.be/lJEo6p49QiE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ara",
+            "link": "https://youtu.be/lJEo6p49QiE",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
