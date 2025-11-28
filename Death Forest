@@ -1,0 +1,42 @@
+{
+    "id": 91775907,
+    "name": "Death Forest",
+    "author": "Mattsstuff",
+    "creators": ["Mattsstuff"],
+    "verifier": "Xaeon",
+    "verification": "https://youtu.be/7Tv3DXV1xss",
+    "percentToQualify": "52",
+    "password": “Not Copyable”,
+    "records": [
+        {
+            "user": "somni",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ara",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "L0v3Ly",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "eb",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 89,
+            "hz": 120
+        },
+        {
+            "user": "usedspoon",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 58,
+            "hz": 120
+        }
+    ]
+}
