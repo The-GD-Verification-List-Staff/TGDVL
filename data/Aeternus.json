@@ -1,0 +1,48 @@
+{
+    "id": 102646926,
+    "name": "Aeternus",
+    "author": "Riot",
+    "creators": ["GrenadeofTacos", "ryamu", "Deadlox", "Riot", "endevvor", "icedcave", "herozombie80", "GD Iris", "Cersia", "Aquatias", "ewop", "Vermillion", "pluff", "Burgadahz"],
+    "verifier": "permafrost",
+    "verification": "https://youtu.be/H0WIku2Yjg8",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "somni",
+            "link": "https://youtu.be/H0WIku2Yjg8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Divisi",
+            "link": "https://youtu.be/H0WIku2Yjg8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ara",
+            "link": "https://youtu.be/H0WIku2Yjg8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "bonkless",
+            "link": "https://youtu.be/H0WIku2Yjg8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "usedspoon",
+            "link": "https://youtu.be/H0WIku2Yjg8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "seppha",
+            "link": "https://youtu.be/H0WIku2Yjg8",
+            "percent": 100,
+            "hz": 360
+        },
+    ]
+}
