@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": Lunatic Dynamix",
+    "author": "hazelszl",
+    "creators": ["hazelszl", "Qazzy52"],
+    "verifier": "L0v3Ly",
+    "verification": "https://youtu.be/4U8WTHf-5ko",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "seahorse411",
+            "link": "https://youtu.be/4U8WTHf-5ko",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
