@@ -1,0 +1,24 @@
+{
+    "id": 102135018,
+    "name": "Angelicide",
+    "author": "lexycat",
+    "creators": ["Yuko", "lexycat"],
+    "verifier": "somni",
+    "verification": "https://youtu.be/RYilXu3xBag",
+    "percentToQualify": "74",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "usedspoon",
+            "link": "https://youtu.be/RYilXu3xBag",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Xaeon",
+            "link": "https://youtu.be/RYilXu3xBag",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
