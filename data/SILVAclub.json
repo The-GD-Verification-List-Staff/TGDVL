@@ -1,0 +1,42 @@
+{
+    "id": 110271092,
+    "name": "SILVAclub",
+    "author": "SuperUltra64",
+    "creators": ["SuperUltra64"],
+    "verifier": "seahorse411",
+    "verification": "https://youtu.be/iF6ad67cpK4",
+    "percentToQualify": "47",
+    "password": “Not Copyable”,
+    "records": [
+        {
+            "user": "sixen",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Divisi",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "L0v3Ly",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "somni",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DarkY",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+    ]
+}
