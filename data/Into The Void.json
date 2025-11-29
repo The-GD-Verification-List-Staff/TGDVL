@@ -1,0 +1,24 @@
+{
+    "id": 111238654,
+    "name": "Into The Void",
+    "author": "aratoO",
+    "creators": ["dom2m", "Rick1322", "Plague", "astra in c major", "Vortex-TuT", "RoMuLuS", "o0oDARKSIDEo0o", "Winnebago", "NotWaveCarried", "portz", "wingedsnail", "4Measures", "Xnai3k", "AloneAtTheEdgeOfAUnviverseHummingATune", "raeb?", "faroah", "Q8", "DistantMix", "lolChomper", "Sidewinder"],
+    "verifier": "kemapolapis",
+    "verification": "https://www.youtube.com/watch?v=555555555",
+    "percentToQualify": "23319",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Xaeon",
+            "link": "https://www.youtube.com/watch?v=555555555",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "somni",
+            "link": "https://www.youtube.com/watch?v=555555555",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
