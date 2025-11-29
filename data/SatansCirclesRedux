@@ -1,0 +1,18 @@
+{
+    "id": 81287963,
+    "name": "SatansCirclesRedux",
+    "author": "SpinningDoritos",
+    "creators": ["ItzCheesy"],
+    "verifier": "sixen",
+    "verification": "https://youtu.be/d_yTWao4FfI",
+    "percentToQualify": 56,
+    "password": “Not Copyable”,
+    "records": [
+        {
+            "user": "GaMMa",
+            "link": "https://youtu.be/d_yTWao4FfI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
