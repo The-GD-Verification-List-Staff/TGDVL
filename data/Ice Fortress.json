@@ -1,0 +1,30 @@
+{
+    "id": 94721920,
+    "name": "Ice Fortress",
+    "author": "gqc",
+    "creators": ["gqc"],
+    "verifier": "bubble",
+    "verification": "https://youtu.be/oJeILJw8P4M",
+    "percentToQualify": "67",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "seahorse411",
+            "link": "https://youtu.be/oJeILJw8P4M",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "usedspoon",
+            "link": "https://youtu.be/oJeILJw8P4M",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "somni",
+            "link": "https://youtu.be/oJeILJw8P4M",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
